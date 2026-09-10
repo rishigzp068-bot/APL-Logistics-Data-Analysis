@@ -1,2 +1,18 @@
-# APL-Logistics-Data-Analysis
-End-to-end logistics data analysis using Excel, Python, SQL and Streamlit
+Project title
+Project objective
+Business problem
+Dataset
+Data preprocessing
+EDA
+Feature engineering
+Machine learning methodology
+Logistic Regression
+Random Forest
+Model evaluation
+Risk prediction
+Excel analysis
+SQL analysis
+Key business insights
+Streamlit dashboard
+Project files
+Recommendations
